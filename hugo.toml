@@ -1,4 +1,4 @@
 baseURL='https://example.org/'
-languageCode='zh-cn'
-title='MyNewHugoSite'
+languageCode='en-us'
+title='An Enpty Blog'
 theme='blowfish'
