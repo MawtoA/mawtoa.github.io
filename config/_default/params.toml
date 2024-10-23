@@ -1,0 +1,5 @@
+enableSearch = false
+
+[homepage]
+layout = ""
+showRecent = true
