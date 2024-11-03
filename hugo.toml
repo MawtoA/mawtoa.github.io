@@ -1,4 +1,5 @@
-baseURL='https://example.org/'
+baseURL='https://mawtoa.github.io/'
 languageCode='en-us'
 title='An Enpty Blog'
 theme='blowfish'
+hasCJKLanguage = true
